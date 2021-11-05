@@ -1,0 +1,2 @@
+# Community-Fundraising-Guide
+This new APAC specific Sprint project is working to create a document that guides the user through creating a custom Opportunity Record Type, Page Layout and Campaign Hierarchy to record these donations and the relationship between donors and fundraisers. Use Opportunity stages to manage the process from application, approval, letter of authority, and receipt of funds.

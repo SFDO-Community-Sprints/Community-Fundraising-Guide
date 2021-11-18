@@ -4,32 +4,42 @@ This new APAC specific Sprint project is working to create a document that guide
 
 # Project Overview
 ## Vision & Goals
-Please replace with your projects vision.
-* Goal 1
-* Goal 2
+To create a solution and guide for managing offline community fundraising activity
+* To replace sheets and emails with one centralised system
+* To have an idea of what income is in the pipeline for this channel to help with reporting and budgeting
 
 ## Project Vertical
-Please replace with Nonprofit, Education, or Other (if Other, explain further)
+Nonprofit
 
 ## Hub Group Link
-Please replace with the URL for your Power of Us Hub and/or Trailblazer Community group.
+N/A
 
 # Current Project Team & Accomplishments
 
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
+Megan Douglas	megsthermomix@gmail.com 
+Sheetal Chougule	sheetu.chougule@gmail.com
+Kirsten Finger	kirsten@blazeyourtrail.org
+Krishnan Bhattacharjee	bhattacharjeekrishnan@gmail.com
+Radhika Kosaraju	radhik012358@gmail.com
+Shanthi Sankaranarayanan	shanthi.sha@gmail.com
+Melissa Hill Dees	melissa@handsonconnect.org 
+John McLean	john@lavabox.co.nz
+Dalize Van Eeden	dalize@lavabox.co.nz
+Jessica Macpherson	jessica@blazeyourtrail.org
 
 ## Sprint (DATE)
 
 ### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
+Docuement draft completed
+Flow chart - timeline completed
+User Stories completed
 
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
-## Sprint (DATE):
+## Sprint (DATE):18 Novebmer 2021
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.

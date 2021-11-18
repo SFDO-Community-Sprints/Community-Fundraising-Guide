@@ -29,7 +29,7 @@ John McLean	john@lavabox.co.nz
 Dalize Van Eeden	dalize@lavabox.co.nz
 Jessica Macpherson	jessica@blazeyourtrail.org
 
-## Sprint (DATE)
+## Sprint 18 Novebmer 2021
 
 ### Project Team Accomplishments
 Docuement draft completed
@@ -39,7 +39,7 @@ User Stories completed
 # Past Project Teams
 We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
 
-## Sprint (DATE):18 Novebmer 2021
+## Sprint (DATE):
 
 ### Project Team Accomplishments
 Please replace with the tasks you team was able to accomplish during the Sprint event.
